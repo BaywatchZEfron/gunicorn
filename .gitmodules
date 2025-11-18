@@ -1,0 +1,3 @@
+[submodule "tictactoe/themes/hugo-book"]
+	path = tictactoe/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
