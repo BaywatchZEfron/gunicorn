@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "es-es"
+title = "Memoria Técnica – TicTacToe"
+theme = "hugo-book"
+
+[params]
+  BookSection = "docs"
